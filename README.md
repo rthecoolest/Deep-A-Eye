@@ -133,7 +133,7 @@ This project was developed by a team of six Computer Science students at **Imam 
 | Dhay Alqahtani  | @dhayii             |
 | Noor Albaqshi   | @Noorbaqshi         |
 | Rund Aloraifi   | @USERNAME           |
-| Dhay Alomar     | @USERNAME           |
+| Dhay Alomar     | @dyalmr3            |
 
 
 ---
