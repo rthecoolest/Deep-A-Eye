@@ -129,11 +129,12 @@ This project was developed by a team of six Computer Science students at **Imam 
 | Member          | GitHub              |
 | --------------- | ------------------- |
 | Reham Alyami    | @rthecoolest        |
+| Ethaar Alsolami | @ethaaralsolami-bot |
 | Dhay Alqahtani  | @dhayii             |
 | Noor Albaqshi   | @Noorbaqshi         |
 | Rund Aloraifi   | @USERNAME           |
 | Dhay Alomar     | @USERNAME           |
-| Ethaar Alsolami | @ethaaralsolami-bot |
+
 
 ---
 
